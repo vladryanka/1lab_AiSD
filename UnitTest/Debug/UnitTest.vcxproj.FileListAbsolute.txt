@@ -1,0 +1,2 @@
+C:\Users\Я\Desktop\вуз\3 семестр\АиСД\норм лаба 1\АиСД_1лаба\Debug\UnitTest.dll.lastcodeanalysissucceeded
+C:\Users\Я\Desktop\вуз\3 семестр\АиСД\норм лаба 1\UnitTest\Debug\NativeCodeAnalysis.read.1.tlog
